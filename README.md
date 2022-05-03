@@ -4,7 +4,7 @@
  
 </div>
 
-Systems Analysis and Development Student | Production engineer
+Systems Analysis and Development Student | Production Engineer
 
 
 <div>
