@@ -1,4 +1,4 @@
-# 👨‍💻 João Victor Dias
+# 👨‍💻 João Victor
 
 🚀 Systems Developer | Production Engineer  
 💡 Focused on .NET, APIs, Microservices & System Integration  
